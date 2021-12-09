@@ -16,7 +16,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="ebenetasso.png" width="100px;" alt="Foto dCamila Benetasso no GitHub"/><br>
+        <img src="ebenetasso.png" width="100px;" alt="Foto da Camila Benetasso no GitHub"/><br>
         <sub>
           <b>Camila Benetasso</b>
         </sub>
